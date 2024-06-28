@@ -1,0 +1,23 @@
+{
+    "user": [
+    
+      {
+        "id": "1",
+        "name": "anil",
+        "email": "anil@teksewa.com",
+        "password": "test@123"
+      },
+      {
+        "id": "2",
+        "name": "aakriti",
+        "email": "aakritil@teksewa.com",
+        "password": "test@123"
+      },
+      {
+        "id": "3",
+        "name": "rozen",
+        "email": "aakritil@teksewa.com",
+        "password": "test@123"
+      }
+    ]
+  }
